@@ -53,7 +53,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
     <!-- GitHub profile card -->
-    <p><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sloharkar&rank_icon=github&locale=en" alt="sloharkar" /></p>
+    <p><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=baguldhananjay01&rank_icon=github&locale=en" alt="baguldhananjay01" /></p>
     <!-- Top languages -->
     <p><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=sloharkar&langs_count=10&show_icons=true&locale=en&layout=compact" alt="sloharkar" /></p>
 </div>
