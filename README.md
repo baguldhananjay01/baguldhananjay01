@@ -55,7 +55,7 @@
     <!-- GitHub profile card -->
     <p><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=baguldhananjay01&rank_icon=github&locale=en" alt="baguldhananjay01" /></p>
     <!-- Top languages -->
-    <p><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=sloharkar&langs_count=10&show_icons=true&locale=en&layout=compact" alt="sloharkar" /></p>
+    <p><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=baguldhananjay01&langs_count=10&show_icons=true&locale=en&layout=compact" alt="baguldhananjay01" /></p>
 </div>
 
 
@@ -69,7 +69,7 @@
 <h3 align="left">Connect with me:</h3>    
 <p align="left">
 <a href="https://www.linkedin.com/in/dhananjay-bagul-6a7612331" target="_blank"><img align="left" alt="linkedin" width="50px" src="Icons/linkedin.png" title="linkedin" /></a>
-<a href="https://twitter.com/SLoharkar89" target="_blank"><img align="left" alt="twitter" width="50px" src="Icons/twitter.png" title="twitter" /></a>
+<a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="_blank"><img align="left" alt="twitter" width="50px" src="Icons/twitter.png" title="twitter" /></a>
 </p>
 
 
