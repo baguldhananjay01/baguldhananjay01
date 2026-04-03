@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Shubham Loharkar </h1>
+<h1 align="center">Hi 👋, I'm Dhananjay Bagul </h1>
 
-<h3 align="center">I'm a Student, Software Developer and also a Security Analyst !!</h3>
+<h3 align="center">I'm a Student, Back-End Developer !!</h3>
 
 <div align="center"> <img align="center" alt="coding" width="400px" src="Icons/code.gif" /> </div>
 
@@ -68,7 +68,7 @@
 <br>
 <h3 align="left">Connect with me:</h3>    
 <p align="left">
-<a href="https://www.linkedin.com/in/sloharkar" target="_blank"><img align="left" alt="linkedin" width="50px" src="Icons/linkedin.png" title="linkedin" /></a>
+<a href="https://www.linkedin.com/in/dhananjay-bagul-6a7612331" target="_blank"><img align="left" alt="linkedin" width="50px" src="Icons/linkedin.png" title="linkedin" /></a>
 <a href="https://twitter.com/SLoharkar89" target="_blank"><img align="left" alt="twitter" width="50px" src="Icons/twitter.png" title="twitter" /></a>
 </p>
 
